@@ -110,7 +110,6 @@ HOW TO INSTALL THE CUSTOM OS ?
 
 ### Installation
 
-
 Create Windows Installation media. If you order Windows 10 for a new PC build, they may send you an installation media. If you don't have a Windows installation media, you can make one. You'll need a computer with internet access and an 8 GB USB flash drive (16 GB recommended). You also need to know if the computer you want to install Windows 11 on has 32-bit or 64-bit architecture. You will also need to purchase Windows to get a product key. This can be done before or after the installation. Use the following steps to create a Windows Installation Media:[1]
 Insert a USB drive with at least 8 GB of space into any computer with internet access. This will wipe any existing data on the USB drive, so be sure to back up any data you want to keep.
 Go to http://go.microsoft.com/fwlink/p/?LinkId=616447 in a web browser.
