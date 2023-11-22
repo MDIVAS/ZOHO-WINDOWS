@@ -57,6 +57,16 @@ Language: en-US
 Size: 4 GB
 Downloads:
 
+
+[![Video](https://img.youtube.com/vi/GQ7d8MiHXj8/maxresdefault.jpg)](https://youtu.be/GQ7d8MiHXj8)
+ 
+ 
+ 
+ CLICK ON THE ABOVE IMAGE TO SEE FULL VIDEO ☝👆
+
+
+
+
 ## FEATURES
 Compact Integrated + LZX (algorithm)
 Bloatware FREE!!
