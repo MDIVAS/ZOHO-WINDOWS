@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-WINDOWS">
-    <img src="https://preview.redd.it/windows-11-boot-animation-v0-43ovh02170ea1.gif?width=800&auto=webp&s=5f06cc875254c9e18dd098d21c90b831e6713202" alt="Logo" width="640" height="480">
+    <img src="https://webartdevelopers.com/blog/wp-content/uploads/2019/06/Loading-Windows-HTML-CSS.gif" alt="Logo" width="640" height="480">
   </a>
 
   <h3 align="center">ZOHO WINDOWS </h3>
