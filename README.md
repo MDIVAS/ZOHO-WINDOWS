@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-WINDOWS">
-    <img src="https://webartdevelopers.com/blog/wp-content/uploads/2019/06/Loading-Windows-HTML-CSS.gif" alt="Logo" width="640" height="480">
+    <img src="https://webartdevelopers.com/blog/wp-content/uploads/2019/06/Loading-Windows-HTML-CSS.gif" alt="Logo" width="960" height="540">
   </a>
 
   <h3 align="center">ZOHO WINDOWS </h3>
