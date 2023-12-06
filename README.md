@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-WINDOWS">
-    <img src="https://images.idgesg.net/images/article/2021/03/microsoft_windows_10x_logo_glowing_blue_circuits_by_vchal_gettyimages-1186902469_2400x1600-100882265-large.jpg?auto=webp&quality=85,70" alt="Logo" width="640" height="480">
+    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwindows-11-boot-animation-v0-43ovh02170ea1.gif%3Fwidth%3D800%26auto%3Dwebp%26s%3D5f06cc875254c9e18dd098d21c90b831e6713202" alt="Logo" width="640" height="480">
   </a>
 
   <h3 align="center">ZOHO WINDOWS </h3>
