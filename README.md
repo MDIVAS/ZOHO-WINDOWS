@@ -51,11 +51,13 @@
 
 THIS IS THE LATEST WINDOWS 11, WHICH HAS BEEN TWEAKED AND CUSTOMIZED TO RUN ZOHO APPS AND SOFTWARE SMOOTHLY AND IS STABLE , SECURE.
 
-Build: 22631.2715
-Architecture: x64
-Language: en-US
-Size: 4 GB
-Downloads:
+SPECIFICATION:
+
+      Build: 22631.2715
+      Architecture: x64
+      Language: en-US
+      Size: 4 GB
+      Downloads:
 
 
 [![Video](https://img.youtube.com/vi/GQ7d8MiHXj8/maxresdefault.jpg)](https://youtu.be/GQ7d8MiHXj8)
@@ -68,31 +70,31 @@ Downloads:
 
 
 ## FEATURES
-Compact Integrated + LZX (algorithm)
-Bloatware FREE!!
-Optimized Pagefile/Services/Scheduled/Search Indexer
-Privacy Optimizations & Performance mode!
-Toolbox! (Add or Remove Windows Store and Much More!)
-Support any Other Language & Keyboard
-
-Updatable (can update to the latest build of Windows 11!)
-Window updates can be paused until 2077!
-With custom Icons, packs / Windows Themes pack!
-ZOHO CUSTOM BOOTABLE! (WPE)
+      Compact Integrated + LZX (algorithm)
+      Bloatware FREE!!
+      Optimized Pagefile/Services/Scheduled/Search Indexer
+      Privacy Optimizations & Performance mode!
+      Toolbox! (Add or Remove Windows Store and Much More!)
+      Support any Other Language & Keyboard
+      
+      Updatable (can update to the latest build of Windows 11!)
+      Window updates can be paused until 2077!
+      With custom Icons, packs / Windows Themes pack!
+      ZOHO CUSTOM BOOTABLE! (WPE)
 
 ## REMOVED 
 
-Windows Apps And System Apps
-Windows Security/Defender/Smartscreen
-Remote Desktop/ Focus Assist/ NFC / Clipboard – (Superlite Only)
-Print Spooler
-OneDrive
-Action Centre/Notifications – (Superlite Only)
-Telemetry – (Superlite Only)
-Error Reports – (Superlite Only)
-UAC (Never Notify)
-WinSxS backup
-Winre
+    Windows Apps And System Apps
+    Windows Security/Defender/Smartscreen
+    Remote Desktop/ Focus Assist/ NFC / Clipboard – (Superlite Only)
+    Print Spooler
+    OneDrive
+    Action Centre/Notifications – (Superlite Only)
+    Telemetry – (Superlite Only)
+    Error Reports – (Superlite Only)
+    UAC (Never Notify)
+    WinSxS backup
+    Winre
 ## SCREENSHOTS
 ![vlcsnap-2023-11-22-12h36m45s018](https://github.com/MDIVAS/ZOHO-WINDOWS/assets/127883304/a7c18c0d-85af-477f-9f6e-52b6ba4c5225)
 
